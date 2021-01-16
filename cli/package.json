@@ -1,0 +1,14 @@
+{
+  "name": "42096612-573e-11eb-90c7-07f165d5ef78",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/postgres-api": "file:../postgres-api"
+  }
+}
